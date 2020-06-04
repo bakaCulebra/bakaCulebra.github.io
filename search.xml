@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>一次更換寬帶的經歷</title>
+    <url>/2020/05/24/%E4%B8%80%E6%AC%A1%E6%9B%B4%E6%8F%9B%E5%AF%AC%E5%B8%B6%E7%9A%84%E7%B6%93%E6%AD%B7/</url>
+    <content><![CDATA[<p>因為便宜，加上懶得去更換，所以用了十多年的長城寬帶。其實這麽多年用下來并沒有網上説的那麽可怕，100兆跑滿并沒有什麽問題，甚至挂梯子也能跑滿帶寬。至於為什麽要換呢，也很簡單<a id="more"></a>，這麽多年長城寬帶的上限都是100兆，想升級都沒辦法；第二點是最近看到某家機場搞活動，入了之後發現有好多節點長城沒辦法用，于是就打算換了</p>
+<p>首先排除掉移動，於是只能從電信和聯通裏選。分別跑了兩家的營業廳，電信這邊沒有單寬帶，融合套餐的話是兩款</p>
+<ol>
+<li>269元每月，70G流量+800分鐘通話，寬帶300兆下行+30兆上行</li>
+<li>299元每月，80G流量+1000分鐘通話，寬帶500兆下行+50兆上行</li>
+</ol>
+<p>聯通的話是69元的冰淇淋套餐送200兆寬帶，但很坑的是聯通在我們小區并沒有覆蓋到200兆，只有100兆，也就是説我出200兆的錢卻只有一半的帶寬，而且不提供公網IP，遂光速排除。</p>
+<p>於是只能忍痛上電信。</p>
+<p>想了想，覺得用不到500兆那麽高，於是還是選了269的套餐（順帶一提，城中村300兆只需199每月，羡慕死啦！） 由於還滿貴的，於是我爸決定把移動的號碼轉到電信來，每個月就能剩58元套餐，於是花了一下午去轉網。唉其實用了幾十年的號碼，換運營商，還挺捨不得的。有了授權碼之後就回到電信營業廳，先將手機號轉到電信，然後開通套餐，期間有個坑，如果你不拒絕他1600元的購機優惠的話，是會默認兩年合約期的，如果提前解約則需按月交違約金。套餐需交的錢是300元預付款+100元安裝調試費，寬帶費用月付。</p>
+<p>第二天中午就會上門安裝，拉光纖的時候發現我們這棟樓算上我們家竟然只有六戶用電信…果然是因為太貴了嗎QAQ 從樓上拉到門鈴線然後再進屋，期間因為沒關門貓貓跑了出去，然後不認識回家的路在別人家門口叫的好凄涼。拉進屋之後接Modem，然後接路由，跟工作人員說把Modem設為橋接，而且想要公網IP，都超級爽快的搞定，耶！當然過後自己查了下Modem的管理員賬號，用戶名是: telecomadmin , 密碼是: nE7jA%5m</p>
+<p>其他的也就沒什麽要注意的了XD, 上個測速圖吧<img src="/images/20200524.png" alt=""></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/04/29/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>一次博客遷移</title>
+    <url>/2020/04/28/%E4%B8%80%E6%AC%A1%E5%8D%9A%E5%AE%A2%E9%81%B7%E7%A7%BB/</url>
+    <content><![CDATA[<h2 id="前因"><a href="#前因" class="headerlink" title="前因"></a>前因</h2><p>其實也就是突發奇想，想把服務器換一下，原來是在用virmach的洛杉磯的服務器，這幾天突然想學一下怎麽遷移，以備日後要升級或者換一家。選來選去，最後選擇了AWS的lightsail的東京機房。<a id="more"></a></p>
+<h2 id="備份"><a href="#備份" class="headerlink" title="備份"></a>備份</h2><ol>
+<li><h3 id="備份文件"><a href="#備份文件" class="headerlink" title="備份文件"></a><strong>備份文件</strong></h3></li>
+</ol>
+<p>首先，備份 Type­cho 的 usr 文件夾，在寶塔面板找到然後壓縮，下載。</p>
+<ol start="2">
+<li><h3 id="備份數據庫"><a href="#備份數據庫" class="headerlink" title="備份數據庫"></a><strong>備份數據庫</strong></h3></li>
+</ol>
+<p>在寶塔面板選擇 Type­cho 的數據庫，點擊備份，然後下載。</p>
+<h2 id="遷移"><a href="#遷移" class="headerlink" title="遷移"></a>遷移</h2><p>首先，在新機器上搭建好Typecho，新建一個數據庫，名稱、密碼與原博客相同。</p>
+<ol>
+<li><strong>恢復usr文件夾</strong></li>
+</ol>
+<p>將備份的usr文件夾上傳到Typecho根目錄，解壓，會自動替換。</p>
+<ol start="2">
+<li><strong>恢復數據庫</strong></li>
+</ol>
+<p>在新建的數據庫上傳並導入備份。</p>
+<p><strong>至此，遷移完成</strong></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>使用Hexo中遇到的問題</title>
+    <url>/2020/05/07/%E4%BD%BF%E7%94%A8Hexo%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%95%8F%E9%A1%8C/</url>
+    <content><![CDATA[<p>在使用Hexo中遇到了一些問題，將記錄在此文中，以供自己日後參考<a id="more"></a></p>
+<h2 id="自定義返回頂部圖標"><a href="#自定義返回頂部圖標" class="headerlink" title="自定義返回頂部圖標"></a>自定義返回頂部圖標</h2><p>在Next主題中，可以開啓回到頂部按鈕，然而默認的樣式實在是有點過於單調，於是萌生了將它變得可愛一點的想法。</p>
+<p>首先，將想替換默認圖標的圖片放在/source/images目錄下，例如我使用的是<img src="/images/scroll.png" alt=""></p>
+<p>到主題配置文件中取消對styles.styl的注釋，在 blog/source/_date 目錄下新建styles.styl，添加以下代碼</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F;自定义回到顶部样式</span><br><span class="line">.back-to-top &#123;</span><br><span class="line">  right: 60px;</span><br><span class="line">  width: 70px;  &#x2F;&#x2F;图片素材宽度</span><br><span class="line">  height: 900px;  &#x2F;&#x2F;图片素材高度</span><br><span class="line">  top: -900px;</span><br><span class="line">  bottom: unset;</span><br><span class="line">  transition: all .5s ease-in-out;</span><br><span class="line">  background: url(&quot;&#x2F;images&#x2F;scroll.png&quot;);</span><br><span class="line"></span><br><span class="line">  &#x2F;&#x2F;隐藏箭头图标</span><br><span class="line">  &gt; i &#123;</span><br><span class="line">    display: none;</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  &amp;.back-to-top-on &#123;</span><br><span class="line">    bottom: unset;</span><br><span class="line">    top: 100vh &lt; (900px + 200px) ? calc( 100vh - 900px - 200px ) : 0px;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>若需要改變此圖標位於頁面左邊還是右邊，則在  blog/themes/next/source/css/_common/components/back-to-top.styl 中第七行自行選擇 right 或 left</p>
+<p>同理，移動端修改則在back-to-top.styl 中将下方的 mobile 改为 right 或 left ，若要关闭则加上一行display: none；</p>
+<h2 id="更換上一頁下一頁圖標"><a href="#更換上一頁下一頁圖標" class="headerlink" title="更換上一頁下一頁圖標"></a>更換上一頁下一頁圖標</h2><p>由於某些不知道的原因，在使用sagiri主題時，上一頁下一頁的圖標無法顯示，取而代之的是一串代碼</p>
+<p><code>&lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;</code></p>
+<p>若要修改為“&lt;” “&gt;”，則在 blog/themes/next/layout/_partials/pagination.swig 中將</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">prev_text: &#39;&lt;i class&#x3D;&quot;fa fa-angle-left&quot;&gt;&lt;&#x2F;i&gt;&#39;,</span><br><span class="line">next_text: &#39;&lt;i class&#x3D;&quot;fa fa-angle-right&quot;&gt;&lt;&#x2F;i&gt;&#39;,</span><br></pre></td></tr></table></figure>
+
+<p>改为</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">prev_text: &#39;&lt;&#39;,</span><br><span class="line">next_text: &#39;&gt;&#39;,</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="側邊欄日志頁面打開顯示不存在"><a href="#側邊欄日志頁面打開顯示不存在" class="headerlink" title="側邊欄日志頁面打開顯示不存在"></a>側邊欄日志頁面打開顯示不存在</h2><p>當打開側邊欄日志頁面時，訪問的連結是域名/archives/%7C%7C%20archive/，顯示頁面不存在，可見archives後面為多餘的，需刪除。</p>
+<p>打開 blog/themes/next/layout/_marco/sidebar.wig，搜索class，將</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% if config.archive_dir !&#x3D; &#39;&#x2F;&#39; and site.posts.length &gt; 0 %&#125;</span><br><span class="line">             &lt;div class&#x3D;&quot;site-state-item site-state-posts&quot;&gt;</span><br><span class="line">             &#123;% if theme.menu.archives %&#125;</span><br><span class="line">               &lt;a href&#x3D;&quot;&#123;&#123; url_for(theme.menu.archives).split(&#39;||&#39;)[0] | trim &#125;&#125;&quot;&gt;</span><br><span class="line">             &#123;% else %&#125;</span><br><span class="line">               &lt;a href&#x3D;&quot;&#123;&#123; url_for(config.archive_dir) &#125;&#125;&quot;&gt;</span><br><span class="line">             &#123;% endif %&#125;</span><br><span class="line">                 &lt;span class&#x3D;&quot;site-state-item-count&quot;&gt;&#123;&#123; site.posts.length &#125;&#125;&lt;&#x2F;span&gt;</span><br><span class="line">                 &lt;span class&#x3D;&quot;site-state-item-name&quot;&gt;&#123;&#123; __(&#39;state.posts&#39;) &#125;&#125;&lt;&#x2F;span&gt;</span><br><span class="line">               &lt;&#x2F;a&gt;</span><br><span class="line">             &lt;&#x2F;div&gt;</span><br><span class="line">&#123;% endif %&#125;</span><br></pre></td></tr></table></figure>
+
+<p>修改為</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% if config.archive_dir !&#x3D; &#39;&#x2F;&#39; and site.posts.length &gt; 0 %&#125;</span><br><span class="line">              &lt;div class&#x3D;&quot;site-state-item site-state-posts&quot;&gt;</span><br><span class="line">                &lt;a href&#x3D;&quot;&#123;&#123; url_for(config.archive_dir) &#125;&#125;&quot;&gt;</span><br><span class="line">                  &lt;span class&#x3D;&quot;site-state-item-count&quot;&gt;&#123;&#123; site.posts.length &#125;&#125;&lt;&#x2F;span&gt;</span><br><span class="line">                  &lt;span class&#x3D;&quot;site-state-item-name&quot;&gt;&#123;&#123; __(&#39;state.posts&#39;) &#125;&#125;&lt;&#x2F;span&gt;</span><br><span class="line">                &lt;&#x2F;a&gt;</span><br><span class="line">              &lt;&#x2F;div&gt;</span><br><span class="line">&#123;% endif %&#125;</span><br></pre></td></tr></table></figure>
+
+<p>刪除中間的判斷即可解決。</p>
+<h2 id="修改網站description大小及顔色"><a href="#修改網站description大小及顔色" class="headerlink" title="修改網站description大小及顔色"></a>修改網站description大小及顔色</h2><p>在 blog/themes/next/source/css/_schemes/Pisces/ _menu.styl 中找到.site-master-description進行修改，若需更換顔色，則添加color: #xxxxxx 即可</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>兩支酒</title>
+    <url>/2020/03/01/%E5%85%A9%E6%94%AF%E9%85%92/</url>
+    <content><![CDATA[<p>花了幾天時間，終於拿到手了，尊尼獲加的黑牌和百加德白朗姆，今晚喝了三杯，空間感上暈暈的，但意識依然清醒，然後第一次和芋圓說了我愛你ww 沒有很大力氣，想睡覺想花錢想買路由器，百加得白更好喝，就是超棒的安眠藥。我運氣真差，看一場輸一場，利物浦輸了0：3，胃熱熱的，突然有點噁心，要吐了<a id="more"></a></p>
+<img src="/images/20200201.jpg">
+
+<p>記於2020年2月1日凌晨4:15</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>将本地圖片上傳到Hexo以及添加圖片預覽</title>
+    <url>/2020/05/01/%E5%B0%86%E6%9C%AC%E5%9C%B0%E5%9C%96%E7%89%87%E4%B8%8A%E5%82%B3%E5%88%B0Hexo%E4%BB%A5%E5%8F%8A%E6%B7%BB%E5%8A%A0%E5%9C%96%E7%89%87%E9%A0%90%E8%A6%BD/</url>
+    <content><![CDATA[<p>一開始用的圖床是<a href="https://upload.cc/" target="_blank" rel="noopener">upload</a> ，但突然發現如果不挂梯子的話圖片加載不出來（雖然對我自己是沒什麽影響啦，畢竟全天都挂著） 但還是想改一下，於是跑去看了下DIYgod大佬的圖片連結<a id="more"></a>，發現是<code>diygod.me/images/xxxx</code>的形式，然後去查了一下，發現只要在<strong>博客</strong>根目錄下的source文件夾中創建一個images文件夾，然後將需要上傳的圖片放進去，寫文章時將圖片的地址寫為<code>/images/圖片名稱</code>就OK啦~</p>
+<p>在看DIYgod的網站時發現有點擊預覽圖片的功能，於是自己也想用。方法如下</p>
+<h2 id="進入主題的lib目錄"><a href="#進入主題的lib目錄" class="headerlink" title="進入主題的lib目錄"></a>進入<strong>主題</strong>的lib目錄</h2><p>例如 <code>Blog/themes/next/source/lib</code></p>
+<h2 id="下載插件"><a href="#下載插件" class="headerlink" title="下載插件"></a>下載插件</h2><p><code>git clone https://github.com/theme-next/theme-next-fancybox3 fancybox</code></p>
+<h2 id="修改主題配置文件"><a href="#修改主題配置文件" class="headerlink" title="修改主題配置文件"></a>修改主題配置文件</h2><p>找到fancybox，將false改為true</p>
+<p>然後就完成啦！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>十年前</title>
+    <url>/2020/03/23/%E5%8D%81%E5%B9%B4%E5%89%8D/</url>
+    <content><![CDATA[<p><img src="/images/20200323.png" alt=""></p>
+<p><a href="https://www.google.com/press/new-approach-to-china/update.html" target="_blank" rel="noopener">https://www.google.com/press/new-approach-to-china/update.html</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>情人節隨筆</title>
+    <url>/2020/02/14/%E6%83%85%E4%BA%BA%E7%AF%80%E9%9A%A8%E7%AD%86/</url>
+    <content><![CDATA[<p>與曹生在一起的第一百零四天。</p>
+<p>今天是情人節，此時的我正呆在家裏。<a id="more"></a></p>
+<p>還未踏入2020年的時候，大概是19年年底的某個夜晚，芋圓帶著我搭地鐵去了尖沙咀，在地鐵站内，當時的廣播播報了一則消息，大意是港鐵將會在平安夜對尖沙咀和尖東站實施人流管制，在播報的結尾有一句「祝各位聖誕快樂。」那個時候我在想，真是可惜啊，和芋圓在一起以後的第一個節日，我竟然要在宿舍復習期末考試，沒辦法一起過，又算了下，元旦大概也沒辦法了，於是一直想到了情人節。</p>
+<p>大概是從那個時候開始就對今年的情人節充滿了期待。畢竟也是第一個有戀人的情人節。於是就在思考要送芋圓甚麽禮物呢。實在是不擅長，畢竟這麽多年來唯一送過禮物的也就是高中時期玩得最好的同桌，然而她是女孩子，女生的禮物一向沒那麽需要糾結，不知道送甚麽的話口紅總會是不錯的選擇，也衹需要在色號上花點心思即可。在送男孩子禮物這件事情上我毫無經驗，最後想來想去還是覺得，不如讓芋圓自己選，就和他約定好了到時候在香港一起去挑他喜歡的游戲。</p>
+<p>好期待啊。</p>
+<p>然而人算不如天算，這場肺炎打亂了我太多的計劃。二月五號香港政府宣佈八號開始内地入境人士要接受14日檢疫，也就是説情人節的計劃基本確定要取消了。順帶取消的是我和他見面的機會，沒想到真的成了異地戀。</p>
+<p>自那天以後我也衹得呆在家中，無處可去，隨著疫情愈演愈烈，別説沒得去香港，竟落得連麪包與肉都吃不上的地步，不由地無端想起那句「我們要麪包。」</p>
+<p>在這個寒冷的深夜裏，我繼續懷念著香港，佐敦、太子、彌敦道、金馬倫道、亞皆老街，這些充滿了香港氣息的譯名，那家看完返校后一起去的在紅橋的潮州菜館，平日裏總會去吃午餐或下午茶的樓下的那條街，第一次進女厠的那家巴倫紐戲院隔壁的麥當勞，回家路上的糖水店，馬鞍山廣場與屯門市廣場的八月堂，荃灣的天橋，南港島的風，還有我和他在香港的日與夜。</p>
+<p>我懷念它們。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>明日方舟解包及立繪提取</title>
+    <url>/2020/05/03/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%A7%A3%E5%8C%85%E5%8F%8A%E7%AB%8B%E7%B9%AA%E6%8F%90%E5%8F%96/</url>
+    <content><![CDATA[<img src="/images/Lappland & Texas.jpg">
+
+<p>明日方舟裏還是有不少立繪滿好看的，想保存下來，於是查了一下如何提取立繪。</p>
+<p>（注：本文所需軟件將以分享連結形式放於文章末尾） <a id="more"></a></p>
+<h2 id="下載資源並解包"><a href="#下載資源並解包" class="headerlink" title="下載資源並解包"></a>下載資源並解包</h2><p>首先，前往官網下載安裝包，然後將文件後綴名修改為zip並解壓</p>
+<p>打開AssetStudioGUI，選擇Files —— Load Folder，選擇需要解包的文件夾。因為想提取的是立繪，所以路徑為<code>\游戏安裝包解壓目錄\assets\AB\Android\charpack</code></p>
+<p>選擇好以後，點擊Export —— All assets，等待解包完成</p>
+<h2 id="合成立繪"><a href="#合成立繪" class="headerlink" title="合成立繪"></a>合成立繪</h2><p>第一步中解包出來的的文件將有數個文件夾，立繪將會放在Texture2D中。打開該文件夾，會發現裏面都是一些黑底png圖片，并且是拆成各個部分的立繪。複製“批量修改文件名(明日方舟立绘).vbs”這個脚本，放在Texture2D文件夾中，執行該脚本，等待完成。</p>
+<p>這時立繪會變成完整的立繪以及Alpha通道。</p>
+<p>如果要批量合成立繪，網上的教程都是推薦使用GalPhotoAuto這個軟件，但我自己按照教程並不成功，於是改用Photoshop進行單張合成</p>
+<p>打開PS，將想要合成的立繪及對應的Alpha通道放在一起，選擇Alpha圖片的圖層，點擊 ”通道“ ，在RGB通道上使用<code>Ctrl + 鼠標左鍵</code>，此時出現選區，即保留的部分。如下圖</p>
+<p><img src="/images/20200503-01.png" alt=""></p>
+<p>然後隱藏Alpha圖層，選擇立繪圖層，<code>Ctrl + J</code>複製選取，得到一個新圖層。只顯示新圖層，此時可得到只保留立繪主體、背景透明的圖片，另存為png即可。</p>
+<p>效果如下</p>
+<p><img src="/images/20200503-02.png" alt=""></p>
+<p>本文所需工具的連結 <a href="https://pan.baidu.com/s/17FuD-aoBPOxtNbBhhCz0mg#list/path=%2F" target="_blank" rel="noopener">解包及合成工具</a></p>
+<p>（雖然很不想用百度雲，但用別人的分享連結的話大概不那麽容易被找到賬號吧XD）</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>瞎折騰N1</title>
+    <url>/2020/03/06/%E7%9E%8E%E6%8A%98%E9%A8%B0N1/</url>
+    <content><![CDATA[<p>閑著無聊又開始亂買東西。</p>
+<p>本來打算買個AX92U，結果似乎刷不了固件，沒得在路由上挂梯子還是挺麻煩的，AX11000又太貴了，想了想，不然先買個N1來玩玩，反正家裏的R6300挂梯子衹能跑6，70兆，正好當作一個小升級，順便為以後換路由做準備。<a id="more"></a></p>
+<p>淘寶上是找不到了，閑魚上也不多，而且基本都是原廠固件或者電視盒的固件，感覺自己刷OpenWrt還是挺麻煩的，乾脆跑去拼多多看看，發現超級多光明正大的在賣的，於是找了一家能選刷好系統了的，150元包郵，下單！一天就到了。<img src="/images/20200306.jpg" alt="N1盒子"></p>
+<p>到了之後就開始折騰，先是改路由器IP，結果不知道出甚麽神經，明明設置的是192.168.1.2，莫名其妙變成了2.1，然後怎麽都進不去，插來拔去電腦還上不了網了，後來插插拔拔又好了（？？？）</p>
+<p>然後就是進路由設置啦，這些都超簡單，然後就好了（被打）</p>
+<p>試了下能跑滿帶寬了，而且家裏人的設備就不讓他們連梯子了，免得搞得機場審計有記錄。</p>
+<p>完事，開心，攢錢換路由！升級寬帶，換手機換MacBook Pro！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>換發身份證</title>
+    <url>/2020/05/27/%E6%8F%9B%E7%99%BC%E8%BA%AB%E4%BB%BD%E8%AD%89/</url>
+    <content><![CDATA[<p>身份證快到期了，加上要準備去台灣的事情，所以要去換證件了。其實一直很害怕，因為怕照片拍不好，還有疫情的原因就一直拖著沒去，後來在麻麻的推薦下還是選了天真藍。<a id="more"></a></p>
+<p>首先是在微信公衆號預約，雖然它提示要查健康碼但實際上并不會，其次是預約信息其實不用填真實的，但我當時還是填了真實的，導致一開始去到那，前臺確認信息的時候有點驚訝。約的是西麗店的11點，提前了大概一個小時出門，地鐵坐到西麗直接出地鐵口就是益田假日里了，天真藍超好找。去到那會確認下預約信息，然後給個化妝包，讓你先等一下，然後等一會就有化妝師過來，先把東西存起來，然後就去化妝~ 化妝師姊姊看到我之後稍微有點愣住，確認是我之後超友善！幫我化妝的時候還問我平時有沒有護膚啊什麽的，而且妝也是直接畫女孩子的妝！感覺效果超好ww 化完妝之後就是等攝影師，攝影師也是個姊姊，看到我第一眼也是問化妝師”這是女孩子吧…“ 然後就是拍照，會一直告訴你怎麽調整姿態，但對我來説好累QAQ 拍了好多張，然後選照片其實挺快的，選完之後會給個編號，拿到前臺，然後等一個半小時就OK啦，修片好了之後會微信通知，然後去確認下還有沒有需要修改的，確認完之後再等大概十五分鐘就會打印照片和回執，就完成啦，電子版會在當晚大概九點發到郵箱。</p>
+<p>第二天去公安局辦理換身份證，約的是下午三點到四點，但我兩點就到了，也可以拿號先辦理，戶口本、照片回執、身份證，很快就搞定了，會確認取身份證方式，然後給一張領取單。因為台灣那邊的事情我還要辦個臨時身份證，需要照片回執和身份證，到另一個窗口辦理，交錢，等十五分鐘就可以領了，是黑白照片，樣式和身份證也不一樣，還滿新奇的，有效期是三個月。</p>
+<p>希望新的身份證能滿意，畢竟十年有效期呢ww</p>
+<p>注：8天後，即6個工作日后就收到了新證件，EMS在派送前會發短信，收件時要回收領取憑證，并且郵費18元到付，對這次的證件照超級滿意！開心！！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>豆芽觀察日記</title>
+    <url>/2020/04/22/%E8%B1%86%E8%8A%BD%E8%A7%80%E5%AF%9F%E6%97%A5%E8%A8%98/</url>
+    <content><![CDATA[<p>4月22日</p>
+<p>第一天開始種<a id="more"></a><img src="/images/20200422-01.jpg" alt="第一天"></p>
+<p>4月25日<img src="/images/20200422-02.jpg" alt="三天後"></p>
+<p>4月27日<img src="/images/20200422-03.jpg" alt="第五天"></p>
+<p>4月29日<img src="/images/20200422-04.jpg" alt="7天後"></p>
+<p>5月1日</p>
+<p>終於要吃掉啦！~<img src="/images/20200422-05.jpg" alt="豆芽的遺照"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>網路測速</title>
+    <url>/2020/04/19/%E7%B6%B2%E8%B7%AF%E6%B8%AC%E9%80%9F/</url>
+    <content><![CDATA[<p>突然想試下除了speedtest之外的網路測速，找來找去發現了ssrspeed，翻了下它的readme，發覺開發者竟然有兩個是twitter上互fo的推友（感覺大家都好厲害…</p>
+<p>於是開始研究該怎麽用！<a id="more"></a></p>
+<ol>
+<li><p>安裝Python！（要把Add Python xxx to PATH勾上）</p>
+</li>
+<li><p>把ssrspeed下載下來然後解壓</p>
+</li>
+<li><p>在解壓目錄打開powershell窗口，執行</p>
+<p><code>python -m pip install --upgrade pip</code></p>
+<p><code>pip3 install -r requirements.txt</code></p>
+</li>
+<li><p>測速的話本來可以用命令行，但我懶懶還蠢蠢，我選擇Web UI，於是繼續在解壓目錄打開powershell並執行</p>
+<p><code>python web.py</code></p>
+</li>
+<li><p>打開<a href="http://127.0.0.1:10870" target="_blank" rel="noopener">http://127.0.0.1:10870</a> ，如下圖<img src="/images/20200419.png" alt="ssrspeed Web UI"></p>
+</li>
+<li><p>填入訂閲鏈接，測速方式、模式選第一個就好啦，結果排序和顔色按自己喜歡的來，然後點一下訂閲鏈接旁的read，出現節點信息后勾上要測速的節點，再點start就OK啦</p>
+</li>
+<li><p>測好之後就會提示測好啦，然後再解壓路徑裏的result文件夾會有結果文件可以看~</p>
+</li>
+</ol>
+<p>到這裏就全部搞定啦！</p>
+<p>我又水了一篇文章嘿嘿嘿</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>關於這幾天的梯子</title>
+    <url>/2020/03/15/%E9%97%9C%E6%96%BC%E9%80%99%E5%B9%BE%E5%A4%A9%E7%9A%84%E6%A2%AF%E5%AD%90/</url>
+    <content><![CDATA[<p>之前一直用喵帕斯，後來心血來潮換了魅影，體驗的確超棒，用N1能挺輕鬆的跑滿家裏的帶寬，本來打算就這麽一直用下去，但前· 兩天出了個不大不小的問題，無論什麽缐路，衹要TG一上傳文件就會斷開，衹能重新連接，電腦版和安卓版都有這個問題，iOS倒衹是偶爾。<a id="more"></a>&gt;一開始以為是我自己搞出了甚麽問題，後來發現不止我一個人會，Maying的客服并沒有給出解釋，衹是説讓我換成TGX。TGX的確沒這個問題，但實在不習慣，於是決定再換一家機場。</p>
+<p>選了Nexitally，但兩者速度差距的確不小，Nexitally衹能跑3~5MB，於是想分應用代理，Nexitally祇走TG，其他的交給Maying，查了一下資料，發現可以用Clash實現，手機上倒是好搞，但我想挂在路由器上，第一次弄這個，出了點問題，乾脆把路由器固件升級了下，後來又弄了幾天才弄好，主要的點有：</p>
+<ol>
+<li>N1的内核要選armv8，而且因為Maying是ssr，所以内核要選ClashR，一開始裝的是Clash所以一直無法運行</li>
+<li>一開始選的配置文件，節點是自動切換的，這個可以自己改成手動</li>
+</ol>
+<p>最後折騰了好久倒是設置好了，但還是有些問題，比如同一個配置文件，手機上開啓時可以看動畫瘋，而挂在路由器上的時候卻不行。而且後來莫名其妙會出現節點連不上，而換成ssrp卻完全沒問題的情況。</p>
+<p>最後還是覺得，乾脆換一家機場比較靠譜，目前在考慮rixCloud和Dler Cloud，Dler可以季付，rix似乎聽説缐路很不錯，但衹能年付，價格還不便宜，依然在糾結，而且Maying還有好久。</p>
+<p>（碎碎念：又要花好多錢嗚嗚嗚TAT 而且玩Ever17把鼠標玩得有點要報廢了，想換個G603，也要好多錢，哎</p>
+]]></content>
+  </entry>
+</search>
